@@ -19,8 +19,6 @@ i am currently working on data analyst in finance <br>i am looking to join and l
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zietsev&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zietsev&icon=8&color=0)](https://visitcount.itsvg.in)
