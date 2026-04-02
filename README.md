@@ -1,6 +1,16 @@
 
 # 💫 About Me:
-i am currently working on data analyst in finance <br>i am looking to join and learn with creative individuals <br>i looking for help with development of multi agents <br>am currently learning genetic algorithm and GA<br>ask me about basically anything <br>
+👨‍💻 Code. Break. Fix. Repeat.
+
+Hey, I’m someone who genuinely enjoys building random things just to see what happens. From small experiments to slightly-less-small experiments 😄 — I like exploring tech, trying new ideas, and occasionally surprising myself when something actually works.
+
+🚀 I’m into coding, problem-solving, and anything that lets me create cool stuff from scratch.
+🧠 Always curious, always learning (sometimes the hard way).
+🔍 You’ll find me jumping between ideas, tools, and projects — just for the fun of it.
+
+I’m open to opportunities, collaborations, and anything interesting in tech — so if you’ve got something cool, I’m in.
+
+Let’s build something awesome.
 
 
 ## 🌐 Socials:
